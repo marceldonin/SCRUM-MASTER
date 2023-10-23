@@ -5,4 +5,5 @@ Certificação para SCRUM MASTER
 
 
 -DESAFIO 02 :
+
 -ACESSO PELO MIRO: https://miro.com/app/board/uXjVNXTVlQ8=/?share_link_id=447292757408
