@@ -1,5 +1,8 @@
 # SCRUM-MASTER
 Certificação para SCRUM MASTER
+-CERTIFICADO: Formação Scrum Master Certification - AC69D8CE
+https://github.com/marceldonin/SCRUM-MASTER/blob/main/CERTIFICA%C3%87%C3%95ES/SCRUM%20-%2000%20-%20Forma%C3%A7%C3%A3o%20Scrum%20Master%20Certification%20-%20AC69D8CE.pdf
+
 
 -DESAFIO 01 : https://github.com/marceldonin/SCRUM-MASTER/blob/main/DESAFIOS%20DE%20PROJETOS/DESAFIO%2001%20-%20MARCELDONIN.pdf
 
